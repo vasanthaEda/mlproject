@@ -1,3 +1,4 @@
+#This file will be useful to install all this project as a package
 from setuptools import find_packages, setup
 from typing import List
 
